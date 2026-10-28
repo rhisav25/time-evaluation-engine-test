@@ -1,0 +1,7 @@
+# API responses produced by test_api.py — regenerated on every run, not source
+output.json
+output_*.json
+
+# Python
+__pycache__/
+*.pyc
